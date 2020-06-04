@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: false,
+  wsUrl: 'http://localhost:5000',
 };
